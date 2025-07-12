@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "profession": "Médico General",
+    "sector": "Salud",
+    "avg_salary": 3000,
+    "years_study": 6
+  },
+  {
+    "id": 2,
+    "profession": "Cirujano",
+    "sector": "Salud",
+    "avg_salary": 4000,
+    "years_study": 7
+  },
+  {
+    "id": 3,
+    "profession": "Enfermero/a",
+    "sector": "Salud",
+    "avg_salary": 900,
+    "years_study": 3
+  },
+  {
+    "id": 4,
+    "profession": "Técnico de Enfermería",
+    "sector": "Salud",
+    "avg_salary": 600,
+    "years_study": 3
+  },
+  {
+    "id": 5,
+    "profession": "Odontólogo",
+    "sector": "Salud",
+    "avg_salary": 2200,
+    "years_study": 5
+  },
+  {
+    "id": 6,
+    "profession": "Farmacéutico",
+    "sector": "Salud",
+    "avg_salary": 1600,
+    "years_study": 5
+  },
+  {
+    "id": 7,
+    "profession": "Fisioterapeuta",
+    "sector": "Salud",
+    "avg_salary": 1200,
+    "years_study": 4
+  },
+  {
+    "id": 8,
+    "profession": "Psicólogo Clínico",
+    "sector": "Salud",
+    "avg_salary": 1300,
+    "years_study": 5
+  },
+  {
+    "id": 9,
+    "profession": "Nutricionista",
+    "sector": "Salud",
+    "avg_salary": 1100,
+    "years_study": 4
+  },
+  {
+    "id": 10,
+    "profession": "Obstetra",
+    "sector": "Salud",
+    "avg_salary": 1500,
+    "years_study": 5
+  },
+  {
+    "id": 11,
+    "profession": "Ingeniero de Software",
+    "sector": "Tecnología",
+    "avg_salary": 1900,
+    "years_study": 4.5
+  },
+  {
+    "id": 12,
+    "profession": "Desarrollador Frontend",
+    "sector": "Tecnología",
+    "avg_salary": 1700,
+    "years_study": 4
+  },
+  {
+    "id": 13,
+    "profession": "Desarrollador Backend",
+    "sector": "Tecnología",
+    "avg_salary": 1800,
+    "years_study": 4
+  },
+  {
+    "id": 14,
+    "profession": "Ingeniero de Datos",
+    "sector": "Tecnología",
+    "avg_salary": 2000,
+    "years_study": 4.5
+  },
+  {
+    "id": 15,
+    "profession": "Analista de Ciberseguridad",
+    "sector": "Tecnología",
+    "avg_salary": 2200,
+    "years_study": 4.5
+  },
+  {
+    "id": 16,
+    "profession": "Administrador de Bases de Datos",
+    "sector": "Tecnología",
+    "avg_salary": 1500,
+    "years_study": 4
+  },
+  {
+    "id": 17,
+    "profession": "Ingeniero DevOps",
+    "sector": "Tecnología",
+    "avg_salary": 2000,
+    "years_study": 4.5
+  },
+  {
+    "id": 18,
+    "profession": "Diseñador UX/UI",
+    "sector": "Tecnología",
+    "avg_salary": 1400,
+    "years_study": 4
+  },
+  {
+    "id": 19,
+    "profession": "Tester QA",
+    "sector": "Tecnología",
+    "avg_salary": 1200,
+    "years_study": 3.5
+  },
+  {
+    "id": 20,
+    "profession": "Analista de Soporte TI",
+    "sector": "Tecnología",
+    "avg_salary": 1000,
+    "years_study": 3
+  },
+  {
+    "id": 21,
+    "profession": "Ingeniero Civil",
+    "sector": "Ingeniería",
+    "avg_salary": 1500,
+    "years_study": 5
+  },
+  {
+    "id": 22,
+    "profession": "Ingeniero Mecánico",
+    "sector": "Ingeniería",
+    "avg_salary": 1600,
+    "years_study": 5
+  },
+  {
+    "id": 23,
+    "profession": "Ingeniero Eléctrico",
+    "sector": "Ingeniería",
+    "avg_salary": 1700,
+    "years_study": 5
+  },
+  {
+    "id": 24,
+    "profession": "Ingeniero Industrial",
+    "sector": "Ingeniería",
+    "avg_salary": 1400,
+    "years_study": 4.5
+  },
+  {
+    "id": 25,
+    "profession": "Ingeniero Ambiental",
+    "sector": "Ingeniería",
+    "avg_salary": 1300,
+    "years_study": 5
+  },
+  {
+    "id": 26,
+    "profession": "Ingeniero Químico",
+    "sector": "Ingeniería",
+    "avg_salary": 1500,
+    "years_study": 5
+  },
+  {
+    "id": 27,
+    "profession": "Topógrafo",
+    "sector": "Ingeniería",
+    "avg_salary": 900,
+    "years_study": 3
+  },
+  {
+    "id": 28,
+    "profession": "Arquitecto",
+    "sector": "Ingeniería",
+    "avg_salary": 1400,
+    "years_study": 5
+  },
+  {
+    "id": 29,
+    "profession": "Ingeniero de Petróleos",
+    "sector": "Ingeniería",
+    "avg_salary": 2500,
+    "years_study": 5
+  },
+  {
+    "id": 30,
+    "profession": "Ingeniero Agrónomo",
+    "sector": "Ingeniería",
+    "avg_salary": 1200,
+    "years_study": 5
+  },
+  {
+    "id": 31,
+    "profession": "Contador Público",
+    "sector": "Negocios",
+    "avg_salary": 850,
+    "years_study": 4
+  },
+  {
+    "id": 32,
+    "profession": "Auditor Financiero",
+    "sector": "Negocios",
+    "avg_salary": 1000,
+    "years_study": 4.5
+  },
+  {
+    "id": 33,
+    "profession": "Analista de Marketing",
+    "sector": "Negocios",
+    "avg_salary": 900,
+    "years_study": 4
+  },
+  {
+    "id": 34,
+    "profession": "Ejecutivo de Ventas",
+    "sector": "Negocios",
+    "avg_salary": 800,
+    "years_study": 3.5
+  },
+  {
+    "id": 35,
+    "profession": "Analista de Recursos Humanos",
+    "sector": "Negocios",
+    "avg_salary": 800,
+    "years_study": 4
+  },
+  {
+    "id": 36,
+    "profession": "Gerente de Proyectos",
+    "sector": "Negocios",
+    "avg_salary": 2000,
+    "years_study": 5
+  },
+  {
+    "id": 37,
+    "profession": "Asesor Financiero",
+    "sector": "Negocios",
+    "avg_salary": 1000,
+    "years_study": 4
+  },
+  {
+    "id": 38,
+    "profession": "Economista",
+    "sector": "Negocios",
+    "avg_salary": 1200,
+    "years_study": 4.5
+  },
+  {
+    "id": 39,
+    "profession": "Administrador de Empresas",
+    "sector": "Negocios",
+    "avg_salary": 900,
+    "years_study": 4
+  },
+  {
+    "id": 40,
+    "profession": "Especialista en Comercio Exterior",
+    "sector": "Negocios",
+    "avg_salary": 1100,
+    "years_study": 4
+  },
+  {
+    "id": 41,
+    "profession": "Docente Educación Básica",
+    "sector": "Educación",
+    "avg_salary": 1200,
+    "years_study": 4
+  },
+  {
+    "id": 42,
+    "profession": "Docente Educación Secundaria",
+    "sector": "Educación",
+    "avg_salary": 1300,
+    "years_study": 4.5
+  },
+  {
+    "id": 43,
+    "profession": "Profesor Universitario",
+    "sector": "Educación",
+    "avg_salary": 1800,
+    "years_study": 6
+  },
+  {
+    "id": 44,
+    "profession": "Coordinador Académico",
+    "sector": "Educación",
+    "avg_salary": 1600,
+    "years_study": 5
+  },
+  {
+    "id": 45,
+    "profession": "Psicopedagogo",
+    "sector": "Educación",
+    "avg_salary": 1100,
+    "years_study": 4.5
+  },
+  {
+    "id": 46,
+    "profession": "Educador Inicial",
+    "sector": "Educación",
+    "avg_salary": 900,
+    "years_study": 4
+  },
+  {
+    "id": 47,
+    "profession": "Tutor de Inglés",
+    "sector": "Educación",
+    "avg_salary": 800,
+    "years_study": 4
+  },
+  {
+    "id": 48,
+    "profession": "Instructor Técnico",
+    "sector": "Educación",
+    "avg_salary": 700,
+    "years_study": 3
+  },
+  {
+    "id": 49,
+    "profession": "Bibliotecario",
+    "sector": "Educación",
+    "avg_salary": 600,
+    "years_study": 3
+  },
+  {
+    "id": 50,
+    "profession": "Investigador Académico",
+    "sector": "Educación",
+    "avg_salary": 1800,
+    "years_study": 6
+  },
+  {
+    "id": 51,
+    "profession": "Electricista",
+    "sector": "Servicios",
+    "avg_salary": 410,
+    "years_study": 3
+  },
+  {
+    "id": 52,
+    "profession": "Plomero",
+    "sector": "Servicios",
+    "avg_salary": 450,
+    "years_study": 2
+  },
+  {
+    "id": 53,
+    "profession": "Carpintero",
+    "sector": "Servicios",
+    "avg_salary": 430,
+    "years_study": 2
+  },
+  {
+    "id": 54,
+    "profession": "Técnico Automotriz",
+    "sector": "Servicios",
+    "avg_salary": 500,
+    "years_study": 2.5
+  },
+  {
+    "id": 55,
+    "profession": "Chef",
+    "sector": "Servicios",
+    "avg_salary": 700,
+    "years_study": 3
+  },
+  {
+    "id": 56,
+    "profession": "Cocinero",
+    "sector": "Servicios",
+    "avg_salary": 600,
+    "years_study": 2
+  },
+  {
+    "id": 57,
+    "profession": "Camarero",
+    "sector": "Servicios",
+    "avg_salary": 450,
+    "years_study": 1
+  },
+  {
+    "id": 58,
+    "profession": "Recepcionista",
+    "sector": "Servicios",
+    "avg_salary": 500,
+    "years_study": 2
+  },
+  {
+    "id": 59,
+    "profession": "Conductor Profesional",
+    "sector": "Servicios",
+    "avg_salary": 650,
+    "years_study": 1.5
+  },
+  {
+    "id": 60,
+    "profession": "Guardia de Seguridad",
+    "sector": "Servicios",
+    "avg_salary": 550,
+    "years_study": 2
+  },
+  {
+    "id": 61,
+    "profession": "Diseñador Gráfico",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 650,
+    "years_study": 4
+  },
+  {
+    "id": 62,
+    "profession": "Periodista",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 700,
+    "years_study": 4.5
+  },
+  {
+    "id": 63,
+    "profession": "Fotógrafo",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 600,
+    "years_study": 2.5
+  },
+  {
+    "id": 64,
+    "profession": "Productor Audiovisual",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 1000,
+    "years_study": 4
+  },
+  {
+    "id": 65,
+    "profession": "Community Manager",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 650,
+    "years_study": 3
+  },
+  {
+    "id": 66,
+    "profession": "Editor de Video",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 700,
+    "years_study": 3
+  },
+  {
+    "id": 67,
+    "profession": "Ilustrador",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 600,
+    "years_study": 3.5
+  },
+  {
+    "id": 68,
+    "profession": "Locutor",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 700,
+    "years_study": 3
+  },
+  {
+    "id": 69,
+    "profession": "Músico",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 600,
+    "years_study": 4
+  },
+  {
+    "id": 70,
+    "profession": "Guionista",
+    "sector": "Arte y Comunicación",
+    "avg_salary": 700,
+    "years_study": 4
+  },
+  {
+    "id": 71,
+    "profession": "Trabajador Agropecuario",
+    "sector": "Agricultura",
+    "avg_salary": 470,
+    "years_study": 1
+  },
+  {
+    "id": 72,
+    "profession": "Técnico Agroforestal",
+    "sector": "Agricultura",
+    "avg_salary": 600,
+    "years_study": 3
+  },
+  {
+    "id": 73,
+    "profession": "Operador de Maquinaria Agrícola",
+    "sector": "Agricultura",
+    "avg_salary": 550,
+    "years_study": 1.5
+  },
+  {
+    "id": 74,
+    "profession": "Ingeniero Zootecnista",
+    "sector": "Agricultura",
+    "avg_salary": 1000,
+    "years_study": 5
+  },
+  {
+    "id": 75,
+    "profession": "Veterinario",
+    "sector": "Agricultura",
+    "avg_salary": 1200,
+    "years_study": 5
+  },
+  {
+    "id": 76,
+    "profession": "Tecnólogo Pesquero",
+    "sector": "Agricultura",
+    "avg_salary": 800,
+    "years_study": 3
+  },
+  {
+    "id": 77,
+    "profession": "Enólogo",
+    "sector": "Agricultura",
+    "avg_salary": 900,
+    "years_study": 4
+  },
+  {
+    "id": 78,
+    "profession": "Especialista en Floricultura",
+    "sector": "Agricultura",
+    "avg_salary": 700,
+    "years_study": 3.5
+  },
+  {
+    "id": 79,
+    "profession": "Cosechador de Banano",
+    "sector": "Agricultura",
+    "avg_salary": 480,
+    "years_study": 1
+  },
+  {
+    "id": 80,
+    "profession": "Inspector de Calidad Agro",
+    "sector": "Agricultura",
+    "avg_salary": 700,
+    "years_study": 3
+  },
+  {
+    "id": 81,
+    "profession": "Guía Turístico",
+    "sector": "Turismo",
+    "avg_salary": 650,
+    "years_study": 2
+  },
+  {
+    "id": 82,
+    "profession": "Agente de Viajes",
+    "sector": "Turismo",
+    "avg_salary": 700,
+    "years_study": 3
+  },
+  {
+    "id": 83,
+    "profession": "Gerente Hotelero",
+    "sector": "Turismo",
+    "avg_salary": 1500,
+    "years_study": 5
+  },
+  {
+    "id": 84,
+    "profession": "Recepcionista Hotel",
+    "sector": "Turismo",
+    "avg_salary": 600,
+    "years_study": 2
+  },
+  {
+    "id": 85,
+    "profession": "Bartender",
+    "sector": "Turismo",
+    "avg_salary": 550,
+    "years_study": 2
+  },
+  {
+    "id": 86,
+    "profession": "Animador Turístico",
+    "sector": "Turismo",
+    "avg_salary": 500,
+    "years_study": 2
+  },
+  {
+    "id": 87,
+    "profession": "Chef Pastelero",
+    "sector": "Turismo",
+    "avg_salary": 700,
+    "years_study": 3
+  },
+  {
+    "id": 88,
+    "profession": "Operador de Tours",
+    "sector": "Turismo",
+    "avg_salary": 650,
+    "years_study": 2.5
+  },
+  {
+    "id": 89,
+    "profession": "Auxiliar de Limpieza Hotel",
+    "sector": "Turismo",
+    "avg_salary": 450,
+    "years_study": 1
+  },
+  {
+    "id": 90,
+    "profession": "Fotógrafo Turístico",
+    "sector": "Turismo",
+    "avg_salary": 600,
+    "years_study": 2.5
+  },
+  {
+    "id": 91,
+    "profession": "Piloto Comercial",
+    "sector": "Transporte",
+    "avg_salary": 2500,
+    "years_study": 3.5
+  },
+  {
+    "id": 92,
+    "profession": "Controlador de Tránsito Aéreo",
+    "sector": "Transporte",
+    "avg_salary": 2300,
+    "years_study": 4
+  },
+  {
+    "id": 93,
+    "profession": "Operador de Grúa",
+    "sector": "Construcción",
+    "avg_salary": 600,
+    "years_study": 1.5
+  },
+  {
+    "id": 94,
+    "profession": "Ingeniero de Minas",
+    "sector": "Energía",
+    "avg_salary": 2600,
+    "years_study": 5
+  },
+  {
+    "id": 95,
+    "profession": "Técnico en Energías Renovables",
+    "sector": "Energía",
+    "avg_salary": 1200,
+    "years_study": 3.5
+  },
+  {
+    "id": 96,
+    "profession": "Operador de Planta Petrolera",
+    "sector": "Energía",
+    "avg_salary": 1800,
+    "years_study": 3
+  },
+  {
+    "id": 97,
+    "profession": "Analista de Datos",
+    "sector": "Tecnología",
+    "avg_salary": 1600,
+    "years_study": 4
+  },
+  {
+    "id": 98,
+    "profession": "Especialista SEO",
+    "sector": "Tecnología",
+    "avg_salary": 1100,
+    "years_study": 4
+  },
+  {
+    "id": 99,
+    "profession": "Coordinador Logístico",
+    "sector": "Negocios",
+    "avg_salary": 1200,
+    "years_study": 4
+  },
+  {
+    "id": 100,
+    "profession": "Especialista en Comercio Electrónico",
+    "sector": "Negocios",
+    "avg_salary": 1100,
+    "years_study": 4
+  }
+]

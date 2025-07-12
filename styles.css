@@ -1,0 +1,10 @@
+/* Estilos personalizados (Tailwind cubre la mayor parte) */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+table th,
+table td {
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid #e5e7eb; /* gris tailwind */
+}
